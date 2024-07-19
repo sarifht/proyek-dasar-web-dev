@@ -45,3 +45,12 @@ nav a:hover {
 
 
 /* Style untuk dibagian main */
+
+/* Style untuk bagian footer */
+footer {
+    font-weight: bold;
+    text-align: center;
+    color: white;
+    background-color: #94a3b8;
+    padding: 20px;
+}
