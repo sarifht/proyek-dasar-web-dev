@@ -4,3 +4,29 @@ body {
     padding: 0;
     background-color: #f1f5f9;
   }
+
+/* Style untuk dibagian header dan navigation bar */
+header {
+    display: inline;
+}
+
+.jumbotron {
+    font-size: 20px;
+    padding: 60px;
+    text-align: center;
+    color: white;
+    background-color: #166534;
+}
+
+nav a {
+    font-size: 18px;
+    font-weight: 400;
+    text-decoration: none;
+    color: white;
+  }
+nav a:hover {
+    font-weight: bold;
+  }
+
+
+/* Style untuk dibagian main */
