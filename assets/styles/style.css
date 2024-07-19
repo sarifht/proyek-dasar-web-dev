@@ -15,7 +15,22 @@ header {
     padding: 60px;
     text-align: center;
     color: white;
-    background-color: #166534;
+    background-color: #15803d;
+}
+
+nav {
+    background-color: #14532d;
+    padding: 5px;
+}
+
+nav ul {
+    display: flex;
+    padding-inline: 4rem;
+    gap: 2rem;
+}
+
+nav li {
+    list-style-type: none;
 }
 
 nav a {
