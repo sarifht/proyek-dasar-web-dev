@@ -84,9 +84,13 @@ aside {
     flex: 1;
 }
 
+.profil header {
+    text-align: center;
+}
+
 .profil img {
     width: 200px;
-  }
+}
 
 /* Style untuk bagian footer */
 footer {
